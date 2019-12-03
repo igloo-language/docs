@@ -16,7 +16,7 @@ Stable
 There is no variable declaration in igloo. All variables must be given a value when they are declared. SImply put the name you want the variable to be, then an equals sign, then the value followed by a semi-colon. For example:
 
 ```
-my_variable = 10;
+my_variable = 10; 
 ```
 
-A variable name cannot start with a number, but after it can.
+A variable name cannot start with a number, but can start with a `_` (underscore) or a letter. For example, `10_variable` is not valid, while `variable_10` is.

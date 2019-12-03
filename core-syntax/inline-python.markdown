@@ -9,10 +9,10 @@ permalink: /core_syntax/inline_python
 # Inline Python
 {: .d-inline-block }
 
-Coming
-{: .label .label-yellow }
+Stable
+{: .label .label-green }
 
-Inserting python code is useful when testing or buildeing an application using features that have not yet een implemented in igloo.
+Inserting python code is useful when testing or building an application using features that have not yet been implemented in Igloo.
 
 To enter inline code, simply wrap your python code with two backticks.
 

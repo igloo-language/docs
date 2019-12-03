@@ -7,4 +7,4 @@ permalink: /core_syntax/
 ---
 
 # Core Syntax
-The core syntax of igloo. Igloo is dynamically typed, with semi-colons at the end of each statement.
+The core syntax of Igloo. Igloo is dynamically typed, C-like programming language with semi-colons at the end of each statement.
