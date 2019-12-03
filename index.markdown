@@ -10,9 +10,8 @@ layout: home
 
 <br>
 
-**Igloo is a high level syntax oriented programming language in which you can change the syntax of the language within itself.**
+<p align = 'center'><b>A High Level and Syntax Oriented Programming Language.</b></p>
 
-Currently, Igloo only has a (slow) implementation in Python 3.8, but in the future, may have a (faster) implementation in Rust.
 
 # An Example
 
