@@ -11,7 +11,7 @@ layout: home
 
 <br>
 
-<p align = 'center'><b>A High Level and Syntax Oriented Programming Language.</b></p>
+<p align = 'center'><b>A High Level Syntax Oriented Programming Language.</b></p>
 
 
 # An Example
