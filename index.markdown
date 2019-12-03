@@ -1,8 +1,9 @@
 ---
+title: Home
 layout: home
 ---
 
-<h1 align = 'center'>Igloo</h1>
+<h1 align = 'center'>The Igloo Programming Language</h1>
 
 <p align = 'center'>
   <img src = 'https://raw.githubusercontent.com/igloo-language/igloo/master/images/igloo_logo.png'>
