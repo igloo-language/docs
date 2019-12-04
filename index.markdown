@@ -1,6 +1,7 @@
 ---
-title: Home
-layout: home
+title:  Home
+layout: page
+permalink: /
 ---
 
 <h1 align = 'center'>The Igloo Programming Language</h1>
